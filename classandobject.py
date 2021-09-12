@@ -3,7 +3,7 @@ class Student:
         print("Ram",55)
 
 
-t=Student()
+t=Student()   # t is object
 Student.student_info(t)
 
 t.student_info()
