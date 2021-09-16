@@ -2,7 +2,7 @@ from turtle import *
 t=Turtle()
 w=Screen()
 #w.bgcolor("grey")
-w.bgpic('test.gif')
+#w.bgpic('test.gif')
 w.title("                               My turtle")
 #t.pencolor("red")
 
