@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 root=Tk()
 def get_data():
-    print(s.get())
+     print(s.get())
 
 def get_scaledata():
     print(sc.get())
